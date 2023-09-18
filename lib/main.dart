@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
                   const TextSpan(text: '님들을 만나게 되어 영광입니다.\n\n\n\n'),
                   const TextSpan(text: '앞으로 9주 동안 잘 부탁드립니다.\n'),
                   const TextSpan(
-                    text: '감사합니다.\n',
+                    text: '감사합니다!\n',
                     style: TextStyle(
                       backgroundColor: Colors.amber,
                       color: Colors.deepPurple,
